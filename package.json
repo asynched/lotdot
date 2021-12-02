@@ -1,0 +1,19 @@
+{
+  "name": "lotdot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.3"
+  }
+}
