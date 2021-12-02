@@ -1,15 +1,19 @@
 {
   "name": "lotdot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "A dot env package that doens't require you to config. xD",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest",
     "test:coverage": "jest --coverage"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "dotenv",
+    "env",
+    "config"
+  ],
+  "author": "Eder Lima",
+  "license": "MIT",
   "dependencies": {
     "jest": "^27.4.3"
   },
